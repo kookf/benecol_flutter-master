@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "544656277265",
+    "firebase_url": "https://bencol-2014.firebaseio.com",
+    "project_id": "bencol-2014",
+    "storage_bucket": "bencol-2014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544656277265:android:70bdb6bfcbd81ec3",
+        "android_client_info": {
+          "package_name": "app.benecol.benecolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544656277265-90lssa5lacg4ktfsqib28b410toq66np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.benecol.benecolapp",
+            "certificate_hash": "f51857199057546271cdc0b9d0eab382404b8ade"
+          }
+        },
+        {
+          "client_id": "544656277265-vam6cv2pqum0v1phlofu09ljmudglqn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk5ExdjFEta1ZQ8APNob9217mqNjAyVLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544656277265-vam6cv2pqum0v1phlofu09ljmudglqn6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544656277265-vtrvgp7gg2j2h7r8e74umugh8m9jdboa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.benecol.benecolapp",
+                "app_store_id": "925970802"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
